@@ -2,7 +2,7 @@
 
 **AI-native marketing operating system. Configure once, run for any brand.**
 
-Built on [Claude Code](https://claude.com/claude-code). Open-sourced by [Tilen Tkalec](https://github.com/tilentkalec) — CEO of [eMatura](https://ematura.si), building an AI-native marketing agency.
+Built on [Claude Code](https://claude.com/claude-code). Open-sourced by [Tilen Tkalec](https://github.com/tilentkalec) — CEO of [eMatura](https://ematura.si), building AI agents that replace your marketing team.
 
 ---
 
